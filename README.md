@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un ejercicio del modulo #2 del PrepCourse de Henry
+Este es un ejemplo de como crear y clonar un repositorio desde GitHub a nuestro PC
